@@ -2,7 +2,6 @@ package com.example.mission_control.service;
 
 import com.example.mission_control.exceprion.NotExistCouponException;
 import com.example.mission_control.repository.CouponRepository;
-import java.math.BigDecimal;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

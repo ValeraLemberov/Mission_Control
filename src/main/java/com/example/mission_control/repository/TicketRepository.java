@@ -22,6 +22,6 @@ public class TicketRepository {
     }
 
     public void deleteBooking(Integer id) {
-        tickets[id] =false;
+        tickets[id] = false;
     }
 }
